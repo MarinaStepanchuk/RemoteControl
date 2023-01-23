@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Alex1Step/RemoteControl.git"
+    "url": "git+https://github.com/MarinaStepanchuk/RemoteControl.git"
   },
   "keywords": [],
   "author": "",
@@ -18,7 +18,7 @@
   "bugs": {
     "url": ""
   },
-  "homepage": "https://github.com/Alex1Step/RemoteControl#readme",
+  "homepage": "https://github.com/MarinaStepanchuk/RemoteControl#readme",
   "dependencies": {
     "@nut-tree/nut-js": "^2.3.0",
     "jimp": "^0.16.2",
