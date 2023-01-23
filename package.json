@@ -1,0 +1,32 @@
+{
+  "name": "websocket-remote-control",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "start:dev": "nodemon index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex1Step/RemoteControl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://github.com/Alex1Step/RemoteControl#readme",
+  "dependencies": {
+    "@nut-tree/nut-js": "^2.3.0",
+    "jimp": "^0.16.2",
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1",
+    "ws": "^8.11.0"
+  },
+  "devDependencies": {
+    "@types/ws": "^8.5.4"
+  }
+}
